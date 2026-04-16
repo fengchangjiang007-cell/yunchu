@@ -382,7 +382,7 @@
 {"key":"建安资源","name":"建安资源","type":1,"api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"*快播资源（墙）","name":"*快播资源","type":1,"api":"https://gayapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"*91资源（墙）","name":"*91资源","type":1,"api":"https://91jpzyw.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-{"key":"*奥斯卡资源（墙）","name":"*奥斯卡资源（未）","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"*奥斯卡资源（墙）","name":"*奥斯卡资源（未）","type":0,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"*优质资源（墙）","name":"*优质资源","type":1,"api":"https://api.yzzy-api.com/inc/feifei3_all/","searchable":1,"quickSearch":1},
 {"key":"*ck伦理资源（墙）","name":"*ck伦理资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*最色资源（墙）","name":"*最色资源","type":1,"api":"https://api.zuiseapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
