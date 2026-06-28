@@ -366,6 +366,7 @@
 {"key":"香蕉🍌资源","name":"香蕉🍌资源","type":1,"api":"https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"CK百货资源","name":"CK百货资源","type":1,"api":"https://ckbh1.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"98资源","name":"98资源","type":1,"api":"https://98zy.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"UU资源","name":"UU资源","type":1,"api":"https://uuzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豆豆资源","name":"豆豆资源","type":1,"api":"https://doudouzy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"鸭鸭资源","name":"鸭鸭资源","type":1,"api":"https://cj.yayazy.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"西瓜资源","name":"🍉资源","type":1,"api":"https://caiji.xgzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1}, 
