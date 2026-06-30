@@ -365,6 +365,7 @@
 {"key":"草批资源","name":"草批资源","type":1,"api":"https://www.saobi2.com/api.php/provide/vod/?ac=detail","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"香蕉🍌资源","name":"香蕉🍌资源","type":1,"api":"https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"CK百货资源","name":"CK百货资源","type":1,"api":"https://ckbh1.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"大众资源","name":"大众资源","type":1,"api":"https://dzzy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"98资源","name":"98资源","type":1,"api":"https://98zy.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"UU资源","name":"UU资源","type":1,"api":"https://uuzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豆豆资源","name":"豆豆资源","type":1,"api":"https://doudouzy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1}, 
