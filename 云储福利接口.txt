@@ -358,7 +358,7 @@
       "filterable": 1
     },
 {"key":"*小湿妹资源（墙）","name":"*小湿妹资源（墙）","type":1,"api":"https://difzmv.xsm8.fit/cn/home/web/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"巨量资源","name":"巨量资源","type":1,"api":"https://api.juliang.live/api/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"巨量资源","name":"巨量资源","type":1,"api":"https://api.juliang.live/api/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"红楼资源","name":"红楼资源","type":1,"api":"https://www.hlzy.store/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"火速资源","name":"火速资源","type":1,"api":"https://api.huosuapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"黑料资源","name":"黑料资源","type":1,"api":"https://www.heiliaozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
