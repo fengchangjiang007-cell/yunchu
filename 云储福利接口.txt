@@ -361,6 +361,7 @@
 {"key":"星夜资源","name":"星夜资源","type":1,"api":"https://xyezy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"看看资源","name":"看看资源","type":1,"api":"https://f-1.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新芒果资源","name":"新芒果资源","type":1,"api":"https://caiji.mgzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"厂长资源","name":"厂长资源","type":1,"api":"https://api.changzhang.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"巨量资源","name":"巨量资源","type":1,"api":"https://api.juliang.live/api/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"母鸡资源","name":"母鸡资源","type":1,"api":"https://mujiziyuan00.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"精品98资源","name":"精品98资源","type":1,"api":"https://jp98.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
