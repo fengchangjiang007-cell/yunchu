@@ -359,7 +359,7 @@
     },
 {"key":"*小湿妹资源（墙）","name":"*小湿妹资源（墙）","type":1,"api":"https://difzmv.xsm8.fit/cn/home/web/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"吉吉资源","name":"吉吉资源","type":1,"api":"https://caiji.jjzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"星夜资源","name":"星夜资源","type":1,"api":"https://xyezy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"看看资源","name":"看看资源","type":1,"api":"https://f-1.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新芒果资源","name":"新芒果资源","type":1,"api":"https://caiji.mgzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
